@@ -40,7 +40,7 @@ function Bio () {
             <p>
               Written by <strong>{author}</strong> who lives in Jakarta with her three year old and husband.
               {` `}
-              <a href={`https://www.instagram.com/${social.instagram}`} target='_blank'>
+              <a href={`https://www.instagram.com/${social.instagram}`} target='_blank' rel='noopener noreferrer'>
                 You should follow her on Instagram
               </a>
             </p>
