@@ -38,7 +38,7 @@ function Bio () {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives in Jakarta with her three year old and husband.
+              Written by <strong>{author}</strong> who lives in Jakarta with her husband and their three year old.
               {` `}
               <a href={`https://www.instagram.com/${social.instagram}`} target='_blank' rel='noopener noreferrer'>
                 You should follow her on Instagram
