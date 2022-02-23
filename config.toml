@@ -1,4 +1,4 @@
-baseURL = 'http://purplesky.io/'
+baseURL = 'http://localhost:3000/'
 languageCode = 'en-us'
 title = 'Purple Sky'
 theme = "paper"

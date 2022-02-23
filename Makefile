@@ -6,3 +6,6 @@ dev:
 
 build:
 	hugo -D
+
+caddy: build
+	caddy run
