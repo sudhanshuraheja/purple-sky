@@ -1,4 +1,4 @@
-http://localhost:3000 {
+http://purplesky.io {
 	file_server {
 		root /public/
 	}
