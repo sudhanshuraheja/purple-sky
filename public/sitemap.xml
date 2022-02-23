@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:3000/posts/my-first-manga-mw-by-osamu-tezuka/</loc>
+    <loc>https://purplesky.io/posts/my-first-manga-mw-by-osamu-tezuka/</loc>
     <lastmod>2019-06-09T18:37:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:3000/posts/</loc>
+    <loc>https://purplesky.io/posts/</loc>
     <lastmod>2019-06-09T18:37:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:3000/</loc>
+    <loc>https://purplesky.io/</loc>
     <lastmod>2019-06-09T18:37:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:3000/posts/sunday-lunch-with-the-family-at-warung-turki/</loc>
+    <loc>https://purplesky.io/posts/sunday-lunch-with-the-family-at-warung-turki/</loc>
     <lastmod>2019-05-15T19:11:00+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:3000/categories/</loc>
+    <loc>https://purplesky.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:3000/tags/</loc>
+    <loc>https://purplesky.io/tags/</loc>
   </url>
 </urlset>

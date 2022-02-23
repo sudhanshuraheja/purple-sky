@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Purple Sky</title>
-    <link>http://localhost:3000/tags/</link>
+    <link>https://purplesky.io/tags/</link>
     <description>Recent content in Tags on Purple Sky</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://localhost:3000/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://purplesky.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
