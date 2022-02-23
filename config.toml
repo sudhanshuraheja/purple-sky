@@ -1,0 +1,4 @@
+baseURL = 'http://purplesky.io/'
+languageCode = 'en-us'
+title = 'Purple Sky'
+theme = "paper"

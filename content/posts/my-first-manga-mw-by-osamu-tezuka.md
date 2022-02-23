@@ -1,6 +1,7 @@
 ---
-title: My first Manga - MW by Osamu Tezuka
-date: "2019-06-09T18:37:00.000Z"
+title: "My First Manga Mw by Osamu Tezuka"
+date: 2019-06-09T18:37:00+07:00
+draft: false
 description: "How shall I go about writing about the very first Manga I have read? I think best to start with my very first impressions."
 ---
 

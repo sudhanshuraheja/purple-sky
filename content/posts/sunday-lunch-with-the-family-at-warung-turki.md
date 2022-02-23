@@ -1,6 +1,7 @@
 ---
-title: Sunday lunch with the family at Warung Turki
-date: "2019-05-15T19:11:00.000Z"
+title: "Sunday Lunch With the Family at Warung Turki"
+date: 2019-05-15T19:11:00+07:00
+draft: false
 description: "Sunday brunch is always on my mind and we decided to go specially since my parents are in town."
 ---
 
