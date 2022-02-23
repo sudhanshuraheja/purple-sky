@@ -1,0 +1,9 @@
+http://localhost:3000 {
+    file_server {
+        root /public/
+    }
+
+    log {
+        format json
+    }
+}
