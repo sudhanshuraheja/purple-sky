@@ -63,6 +63,7 @@ logs:
 stop:
 	@echo "$(BLUE_COLOR)➤ Stop the container $(NO_COLOR)"
 	docker stop $(APP)
+	docker rm -f $(APP)
 
 # Clean
 clean: rmi
